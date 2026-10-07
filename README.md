@@ -8,21 +8,6 @@ The goal of this project is to build a personal AI Race Engineer that can analyz
 
 The project will initially focus on sim racing and will be developed entirely in Python.
 
-## Current Status
-
-### Phase 1 — Telemetry Foundation
-
-The first phase focuses on building the data analysis foundation:
-
-- Load telemetry data
-- Validate and clean telemetry
-- Detect individual laps
-- Calculate lap times
-- Analyze speed, throttle, brake and steering inputs
-- Compare laps
-- Align telemetry by track distance
-- Identify where time is gained or lost
-- Generate race engineer style analysis
 
 ## Planned Roadmap
 
